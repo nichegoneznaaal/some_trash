@@ -1,5 +1,4 @@
-# some_trash
-Config files for my GitHub profile.
+
 В папке Tasks лежат старые задания, которые делал еще как только изучал Python. (Добавил их только 8 мес. назад).
 
 
